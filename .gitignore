@@ -3,15 +3,24 @@ venv/
 env/
 .venv/
 
-
-
-
+# Python cache files
+__pycache__/
+*.pyc
 
 # Environment variables
 .env
 *.env
 
-
+# IDE settings
+.vscode/
+.idea/
 
 # Ollama indexes / vector DB (optional)
 faiss_index/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
