@@ -1,0 +1,1 @@
+This speech txt file I am just added for test Text Loader

@@ -1,0 +1,17 @@
+# Python environments
+venv/
+env/
+.venv/
+
+
+
+
+
+# Environment variables
+.env
+*.env
+
+
+
+# Ollama indexes / vector DB (optional)
+faiss_index/
