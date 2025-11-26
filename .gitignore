@@ -17,6 +17,7 @@ __pycache__/
 
 # Ollama indexes / vector DB (optional)
 faiss_index/
+chroma_db/
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/

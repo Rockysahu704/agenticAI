@@ -13,4 +13,5 @@ langchain-ollama
 sentence_transformers
 langchain_huggingface
 chromadb
+langchain-chroma
 faiss-cpu
