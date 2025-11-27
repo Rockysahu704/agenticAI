@@ -15,3 +15,4 @@ langchain_huggingface
 chromadb
 langchain-chroma
 faiss-cpu
+langchain-classic
